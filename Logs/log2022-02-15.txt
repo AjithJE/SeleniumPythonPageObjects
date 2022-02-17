@@ -1,0 +1,1 @@
+2022-02-15 20:05:53,305 - test_SignUp.py:[18] - [INFO] - Test do signup started
